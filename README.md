@@ -12,6 +12,6 @@ with steps including:
 - drop database, if applicable
 
 This is part of the PASS Data Community Summit in Seattle Washington in November, 2022.
-Recording and Powerpoint presentation included.
+Powerpoint presentation included.
 
 Patent Application Pending
